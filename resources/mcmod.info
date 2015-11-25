@@ -1,0 +1,16 @@
+[
+{
+  "modid": "xtrememodtweaks",
+  "name": "XtremeModTweaks",
+  "description": "Tool more faster, stronge and more enchantmentbility.",
+  "version": "r2.0-1",
+  "mcversion": "1.8.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rumaruka"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
