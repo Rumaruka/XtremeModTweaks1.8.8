@@ -3,15 +3,13 @@ package com.rumaruka.xtrememodtweaks.items;
 import com.rumaruka.xtrememodtweaks.xtrememodtweaks;
 import com.rumaruka.xtrememodtweaks.material.ToolMaterialMod;
 
-import net.minecraft.item.Item;
-import net.minecraft.item.ItemPickaxe;
+import net.minecraft.item.ItemAxe;
 
-public class xtremediamondpickaxe extends ItemPickaxe {
-	
-	public xtremediamondpickaxe(){
+public class xtremediamondaxe extends ItemAxe {
+
+	public xtremediamondaxe( ) {
 		super(ToolMaterialMod.XtremeDiamond);
 		setCreativeTab(xtrememodtweaks.tabXtremeModTweaks);
-		setUnlocalizedName("xtremediamondpickaxe");
 	}
 
 }

@@ -6,12 +6,11 @@ import com.rumaruka.xtrememodtweaks.material.ToolMaterialMod;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemPickaxe;
 
-public class xtremediamondpickaxe extends ItemPickaxe {
+public class xtremestonepickaxe extends ItemPickaxe {
 	
-	public xtremediamondpickaxe(){
-		super(ToolMaterialMod.XtremeDiamond);
+	public xtremestonepickaxe(){
+		super(ToolMaterialMod.XtremetStone);
 		setCreativeTab(xtrememodtweaks.tabXtremeModTweaks);
-		setUnlocalizedName("xtremediamondpickaxe");
 	}
 
 }
