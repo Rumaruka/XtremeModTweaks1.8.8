@@ -1,7 +1,5 @@
 package com.rumaruka.xtrememodtweaks.creativetabs;
 
-import com.rumaruka.xtrememodtweaks.registers.ModItems;
-
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.init.Items;
 import net.minecraft.item.Item;
@@ -16,7 +14,7 @@ public class CreativeTabXtremeMod extends CreativeTabs {
 	@Override
 	public Item getTabIconItem() {
 		// TODO Auto-generated method stub
-		return ModItems.xtremeironaxe;
+		return Items.acacia_door;
 	}
 
 }

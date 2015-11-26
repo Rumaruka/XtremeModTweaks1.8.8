@@ -2,7 +2,6 @@ package com.rumaruka.xtrememodtweaks;
 
 import com.rumaruka.xtrememodtweaks.creativetabs.CreativeTabXtremeMod;
 import com.rumaruka.xtrememodtweaks.proxy.CommonProxy;
-import com.rumaruka.xtrememodtweaks.recipes.VanillaRecipes;
 import com.rumaruka.xtrememodtweaks.reference.Reference;
 import com.rumaruka.xtrememodtweaks.registers.ModItems;
 
@@ -31,7 +30,6 @@ public class xtrememodtweaks {
 	public void preinit(FMLPreInitializationEvent e) {
 		ModItems.init();
 		ModItems.register();
-		VanillaRecipes.loadRecipes();
 
 	}
 

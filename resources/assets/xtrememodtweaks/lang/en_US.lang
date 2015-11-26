@@ -1,16 +1,4 @@
 #CreativeTabs
 itemGroup.XtremeModTweaks=XtremeModTweaks
 #Tool
-#PickAxe
-item.xtremediamondpickaxe.name=Xtreme Diamond Pickaxe
-item.xtremestonepickaxe.name=Xtreme Stone Pickaxe
-item.xtremeironpickaxe.name=Xtreme Iron Pickaxe
-item.xtremegoldpickaxe.name=Xtreme Gold Pickaxe
-item.xtremewoodenpickaxe.name=Xtreme Wooden Pickaxe
-#Axe
-item.xtremediamondaxe.name=Xtreme Diamond Axe
-item.xtremestoneaxe.name=Xtreme Stone Axe
-item.xtremeironaxe.name=Xtreme Iron Axe
-item.xtremegoldaxe.name=Xtreme Gold Axe
-item.xtremewoodenaxe.name=Xtreme Wooden Axe
-#Shovel
+ite,.xtremediamondpickaxe.name=Xtreme Diamond Pickaxe
